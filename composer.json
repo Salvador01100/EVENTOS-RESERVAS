@@ -1,0 +1,17 @@
+{
+    "name": "salva/eventos",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Salvador",
+            "email": "salvador_gomes@hotmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
